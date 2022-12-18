@@ -1,0 +1,109 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: inherit;
+}
+
+ul {
+    list-style: none;
+}
+
+.first {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.list li {
+    padding: 10px;
+}
+
+.icon {
+    padding: 5px;
+    width: 40px;
+    display: inline-block;
+}
+
+footer p {
+    padding-left: 48px;
+}
+
+.join {
+    padding: 3px;
+    color: #fff;
+    font-weight: 500;
+    border-radius: 20px;
+    background-color: black;
+}
+
+.sign {
+    padding: 4px;
+    border-radius: 20px;
+    background-color: #fff;
+    font-weight: 500;
+    border: 1px solid black;
+}
+
+.sign:hover {
+    cursor: pointer;
+    background-color: #e0d9d0;
+}
+
+.para {
+    font-size: 19px;
+    font-weight: 500;
+}
+
+.para-button {
+    font-weight: 500;
+    color: #1e3932;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    border-radius: 20px;
+    background-color: #d4e9e2;
+}
+
+.para-button:hover {
+    cursor: pointer;
+}
+
+.learn-more {
+    font-weight: 600;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    padding-right: 15px;
+    padding-left: 15px;
+    border-radius: 20px;
+    border: 1px solid #fff;
+    color: #fff;
+    background-color: #00754a;
+}
+
+.images {
+    max-width: 100%;
+    height: 100%;
+
+}
+
+a:visited {
+    color: black;
+}
+
+.learn-more:hover {
+    cursor: pointer;
+    background:#2f6b57
+   
+}
+.join{
+    cursor: pointer;
+}
+
+.hov:hover{
+    color: #006241;;
+}
